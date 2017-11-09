@@ -37,5 +37,3 @@ This is a list of our recommendations for the :poop: website:
 * Add a better navigation
 * Remove images that are not necessary
 * Organise events chronologically
-
-/play 56k
