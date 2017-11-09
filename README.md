@@ -35,4 +35,5 @@ This is a list of our recommendations for the :poop: website:
 * Make the website scale for mobile
 * Fix the links on the website, or remove broken links
 * Add a better navigation
-* Make the style of the website more uniform so its easier to navigate
+* Remove images that are not necessary
+* Organise events chronologically
