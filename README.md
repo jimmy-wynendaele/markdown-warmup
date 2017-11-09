@@ -17,7 +17,7 @@ We found the website on [webpagesthatsuck.com](http://www.webpagesthatsuck.com/w
 This is a list of the reasons why the website needs updates:
 
 * The style of the website is obviously outdated.
-* Does not scale for mobile
+* Not optimised for mobile
 * Bad navigation
 * Links that don't work
 * Webshop isn't secured
@@ -33,7 +33,7 @@ The company is present on [facebook](https://www.facebook.com/roverp6parts) and 
 
 This is a list of our recommendations for the :poop: website:
 
-* Make the website scale for mobile
+* Optimise the website for mobile users
 * Fix the links on the website, or remove broken links
 * Add a better navigation
 * Remove images that are not necessary
