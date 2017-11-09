@@ -22,6 +22,7 @@ This is a list of the reasons why the website needs updates:
 * Links that don't work
 * Webshop isn't secured
 * Name of the website is different from the name of the company
+* Impressive nav bar
 
 
 ## Presence on social media
